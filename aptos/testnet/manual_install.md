@@ -13,7 +13,7 @@ If you want to setup validator node manually follow the steps below
 ## 0. Setting up vars
 Put your node name here
 ```
-NODENAME=<YOUR_NODENAME>
+NODENAME=<ubuntu-s-8vcpu-16gb-tor1-01>
 ```
 
 Save and import variables into system
